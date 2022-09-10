@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249325278365",
+    "project_id": "yoteescuchov2",
+    "storage_bucket": "yoteescuchov2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249325278365:android:92961181e721d1d4c33074",
+        "android_client_info": {
+          "package_name": "com.example.yoteescuchov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249325278365-vguf39qgnd1evthc18r8rp9klerci19h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrLPbrbkbnjuIwtS5V8MQ-A_MiZqfJTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249325278365-vguf39qgnd1evthc18r8rp9klerci19h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
